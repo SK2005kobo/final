@@ -13,6 +13,6 @@ A Happy Birthday animation design in CSS3, HTML5, JavaScript.
    ```bash
    git clone https://github.com/randillasith/Birthday.git
    
-#### [See it Live](https://randillasith.github.io/Birthday/)
+#### [See it Live](https://randillasith.github.io/final/)
 
 "# wish" 
